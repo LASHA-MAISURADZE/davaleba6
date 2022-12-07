@@ -1,0 +1,72 @@
+.container{ max-width: 1366px;
+    width: 100%;
+    margin: 0 auto;
+    font-family: 'Roboto Condensed';
+
+    
+
+}
+/* daiwko hederi */
+header{display: flex; align-items: center;
+    justify-content: space-between;
+    padding: 35px 139px;
+    
+    
+    background-color: white;
+}
+
+
+
+.header_right{ display: flex;
+    gap: 107px;
+    align-items: center;
+
+}
+
+ul{ display: flex;
+    gap: 69px;
+
+}
+
+.search{width: 227px;
+    
+    border-radius: 10px;
+    padding: 10px 0 10px 0;
+    display: flex;
+    justify-content: flex-end;
+}   
+/* daiwko sekcia  */
+section{ width: 90%;   margin: 0 auto; display: flex; flex-wrap: wrap; justify-content: space-between;
+  height: 1000px;   
+}
+
+h1{ font-size: 18px;
+    padding: 59px 139px ;
+
+}
+ 
+.card{ width: 23%; margin-top: 20px;  height: 368px; 
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    margin-top: 10px;
+
+}
+ /* DAIWKO FOOTERI */ 
+ footer{ display: flex; width: 100%;  }
+ h2{ margin-left: 139px; margin-right: 376px;} 
+ .footer{ display: flex; gap: 30px; }
+ 
+
+
+mokled davaleba titkmis boloshi ro gavedi mere wavikitxe ro kvelafris damtavrebis shedeg unda damekomitebina da shemdegze ororjer vizav :D 
+
+ 
+ 
+ 
+
+
+
+
+
+
